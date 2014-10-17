@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nja:home|Door43 (nja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nja|d43-nja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nja/archive/master.zip|d43-nja.zip]]
+
+**Recent Changes**
+{{changes>ns = nja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nja|Ethnologue data]]
+
